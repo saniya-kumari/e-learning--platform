@@ -1,0 +1,132 @@
+.product{
+    margin-top:100px;
+    background-color: #ebebea;
+    height: 8px;
+    width: 100%
+}
+.product h5{
+    font-family: Cooper Black Regular;
+    font-size: 28px;
+    color: #b0a171; 
+    text-align: center;
+    margin-top: 60px;
+}
+.product h1{
+    font-family: Cooper Black Regular;
+    font-size: 58px;
+    text-align: center;
+}
+.product p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: grey;
+}
+.productItems{
+    margin-top: 50px;
+    height: 400px;
+
+}
+.product h4{
+    font-family: Cooper Black Regular;
+    font-size: 22px;
+    color: #b0a171; 
+    margin-top: 15px;
+    text-align: center;
+}
+.pImgDiv{
+    height: 70px;
+    width: 30px;
+    margin-top: 30px;
+
+}
+.pImg{
+    height: 70px;
+    width: 20px;
+}
+.cartIcon{
+    height: 21px;
+    width: 21px;
+}
+.innerBanner{
+    background-image: url(../img/bg.jpg);
+    height: 100%;
+    background-size: cover; 
+}
+.innerBannerCont{
+    width: 874px;
+    height: 220px;
+    margin: 00px;
+    margin-top: 80px;
+}
+.innerBannerCont h2{
+    font-family: Cooper Black Regular;
+    font-size: 80px;
+    color: white;
+    padding: 10px;
+}
+.innerBannerCont p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.products{
+    width: 100%;
+    padding-top: 50px;
+
+}
+.products h5{
+    font-family: 'Poppins';
+    font-size: 16px;
+    color: #000;    
+    text-align: left;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.products h6{
+    font-family: 'Poppins';
+    font-size: 14px;
+    text-align: left;
+    font-style: italic;
+    color: grey;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+.items{
+    margin-top: 0px;
+    height: 460px;
+    border: 1px solid grey;
+    margin-top: 30px;
+}
+.itemContent{
+    height: 70px;
+    width: 65%;
+    margin-top: 15px;
+}
+.itmesImgDiv{
+    height: 350px;
+    width: 100%;
+
+}
+.itmesImg{
+    height: 350px;
+    width: 100%;
+}
+.itemCart{
+    margin-left: 200px;
+    margin-top: 20px;
+    position: absolute;
+    margin-top: 40px;
+}
+.items i{
+    font-size: 30px;
+}
+.ratingImg{
+    height: 15px;
+    width: 150px;
+    margin-left: 10px;
+}
